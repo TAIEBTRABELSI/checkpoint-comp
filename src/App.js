@@ -9,7 +9,6 @@ function App() {
  function showAlert(name) {
 
   return alert (name)
-
  }
 
 
